@@ -1,0 +1,23 @@
+baseURL: ""
+languageCode: "en-us"
+title: "lilbitclassic"
+theme: "aerial"
+
+params: 
+  name: "Elizabeth King"
+  about: "making and breaking code"
+  social: 
+    - link: "https://github.com/eliz-king"
+      icon: "github"
+      medium: "github"
+    - link: "hhttps://www.linkedin.com/in/elizking-dev/"
+      icon: "linkedin"
+      medium: "linkedin" 
+    - link: ""
+  copyright: "King 2020"
+
+deployment:
+  targets: 
+    - name: "home"
+      url: "s3://home.lilbitclassic.com?region=us-west-2"
+
