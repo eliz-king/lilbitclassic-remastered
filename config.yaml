@@ -5,15 +5,20 @@ theme: "aerial"
 
 params: 
   name: "Elizabeth King"
-  about: "making and breaking code"
+  about: "making and breaking code one line at a time"
   social: 
     - link: "https://github.com/eliz-king"
       icon: "github"
       medium: "github"
-    - link: "hhttps://www.linkedin.com/in/elizking-dev/"
+    - link: "https://www.linkedin.com/in/elizking-dev/"
       icon: "linkedin"
       medium: "linkedin" 
+    - link: "https://www.facebook.com/elizabeth.king.7315"
+      icon: "facebook"
+      medium: "facebook"
     - link: ""
+      icon: "envelope-o"
+      medium: "email"
   copyright: "King 2020"
 
 deployment:
