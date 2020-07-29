@@ -16,7 +16,7 @@ params:
     - link: "https://www.facebook.com/elizabeth.king.7315"
       icon: "facebook"
       medium: "facebook"
-    - link: ""
+    - link: "mailto:elizking.dev@gmail.com"
       icon: "envelope-o"
       medium: "email"
   copyright: "King 2020"
